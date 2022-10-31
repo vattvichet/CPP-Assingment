@@ -1,0 +1,1 @@
+ cout << acc[i].id << ", " << acc[i].name << ", " << acc[i].balance << "\n";
